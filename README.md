@@ -109,7 +109,8 @@ Undergraduate Student
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Daksh-create349/Daksh-create349/output/github-contribution-grid-snake-dark.svg">
+
+<img src="https://raw.githubusercontent.com/Daksh-create349/Daksh-create349/output/github-contribution-grid-snake.svg" />
 </p>
 
 - Active contributor with consistent commits
