@@ -106,16 +106,13 @@ Undergraduate Student
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Daksh-create349/Daksh-create349/output/github-contribution-grid-snake.svg" />
-</p>
-
+## 📊 GitHub Activity
 - Active contributor with consistent commits
 - Focus on building production-ready projects
 - Strong emphasis on code quality and documentation
+
+## 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/Daksh-create349/Daksh-create349/output/github-contribution-grid-snake.svg" />
 
 ## 🎯 Areas of Interest
 
