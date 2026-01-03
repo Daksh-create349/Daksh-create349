@@ -20,7 +20,7 @@
 <h2 align="center">👾 Character Profile</h2>
 
 <div align="center">
-  <img src="https://i.giphy.com/L1R1TVTh2RhtRBOY0l.webp" width="100%" alt="Gaming Setup"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*_ViO7IlQ0DRYnc9_.gif" width="100%" alt="Gaming Setup"/>
 </div>
 
 <br/>
