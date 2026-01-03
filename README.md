@@ -36,10 +36,6 @@ const Daksh = {
     Class: "Full Stack Wizard",
     HP: "100%",
     MP: "Infinite Coffee",
-    Weapons: [
-        "React", "Node.js", 
-        "Python", "MongoDB"
-    ],
     Special_Ability: "System Design",
     Current_Quest: "Multi-Agent AI"
 };
@@ -53,51 +49,66 @@ const Daksh = {
 
 ---
 
-<h2 align="center">🎒 Inventory</h2>
+<h2 align="center">🎒 Divided Inventory</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%"><b>🎨 Frontend</b></td>
-    <td align="center" width="33%"><b>⚙️ Backend</b></td>
-    <td align="center" width="33%"><b>🔧 Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=3" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark&perline=3" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,git,docker&theme=dark&perline=3" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h2 align="center">🔥 Login Streak</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Daksh-create349&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <table style="border: 1px solid #333;">
+    <tr>
+      <td align="center" width="33%"><b>🎨 Frontend</b></td>
+      <td align="center" width="33%"><b>⚙️ Backend</b></td>
+      <td align="center" width="33%"><b>🔧 Languages & Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&perline=3" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,appwrite&perline=3" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,git,docker&perline=3" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<h2 align="center">💾 Save Files (Projects)</h2>
-
+<h2 align="center">📊 Power Levels</h2>
 <div align="center">
-
-| 📂 Quest Name | 📝 Mission Log | 🛠️ Items Used |
-| :--- | :--- | :--- |
-| **TimeWise** | **Classroom Scheduler**<br>Auto-generate timetables. | `Node` `React` |
-| **HyperMind** | **AI Tutor**<br>Generative AI Agents. | `GenAI` `MERN` |
-| **DevUtils** | **Automation Tools**<br>Python Scripts. | `Python` `Bash` |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Daksh-create349&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-create349&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="38%" />
 </div>
 
 ---
 
-<h2 align="center">🐍 Mini Game</h2>
+<h2 align="center">💾 Save Files (Quests)</h2>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td style="border: none;">
+        <a href="https://github.com/Daksh-create349/TimeWise">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh-create349&repo=TimeWise&theme=radical&show_owner=false&bg_color=0D1117&hide_border=true" />
+        </a>
+      </td>
+      <td style="border: none;">
+        <a href="https://github.com/Daksh-create349/HyperMind">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh-create349&repo=HyperMind&theme=radical&show_owner=false&bg_color=0D1117&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">📈 XP Gain Activity</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daksh-create349&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=20C20E" width="100%" />
+</div>
+
+<h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Daksh-create349/Daksh-create349/output/github-contribution-grid-snake.svg?palette=github-dark" width="100%" alt="Snake Game" />
 </div>
