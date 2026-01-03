@@ -15,22 +15,18 @@
   <a href="mailto:dakshshrivastav56@gmail.com"><img src="https://img.shields.io/badge/Email-SEND-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Daksh-create349&theme=gitmon&no-frame=true&no-bg=true&margin-w=15" alt="Pixel Trophies" />
-  </a>
-</div>
-
 ---
 
 <h2 align="center">👾 Character Profile</h2>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td width="55%" valign="top" style="border: none;">
-      <pre>
+<div align="center">
+  <img src="https://i.giphy.com/L1R1TVTh2RhtRBOY0l.webp" width="100%" alt="Gaming Setup"/>
+</div>
+
+<br/>
+
+<div align="center">
+<pre>
 // PLAYER STATS
 const Daksh = {
     Class: "Full Stack Wizard",
@@ -39,45 +35,36 @@ const Daksh = {
     Special_Ability: "System Design",
     Current_Quest: "Multi-Agent AI"
 };
-      </pre>
-    </td>
-    <td width="45%" align="center" style="border: none;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDV1aW1xYmJxb2V6aDN6YnFxeGZ3eHR2amZ4Z2V6amZ4Z2V6amZ4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVTh2RhtRBOY0l/giphy.gif" width="100%" alt="Pixel City" style="border-radius: 8px;"/>
-    </td>
-  </tr>
-</table>
+</pre>
+</div>
 
 ---
 
 <h2 align="center">🎒 Divided Inventory</h2>
 
 <div align="center">
-  <table style="border: 1px solid #333;">
-    <tr>
-      <td align="center" width="33%"><b>🎨 Frontend</b></td>
-      <td align="center" width="33%"><b>⚙️ Backend</b></td>
-      <td align="center" width="33%"><b>🔧 Languages & Tools</b></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&perline=3" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,appwrite&perline=3" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,git,docker&perline=3" />
-      </td>
-    </tr>
-  </table>
+
+### 🎨 Frontend
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&perline=6)
+
+### ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,appwrite&perline=6)
+
+### 🔧 Arsenal
+![Tools](https://skillicons.dev/icons?i=py,cpp,js,ts,git,docker&perline=6)
+
 </div>
 
 ---
 
 <h2 align="center">📊 Power Levels</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daksh-create349&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-create349&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="38%" />
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Daksh-create349&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-create349&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
 </div>
 
 ---
@@ -85,20 +72,11 @@ const Daksh = {
 <h2 align="center">💾 Save Files (Quests)</h2>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td style="border: none;">
-        <a href="https://github.com/Daksh-create349/TimeWise">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh-create349&repo=TimeWise&theme=radical&show_owner=false&bg_color=0D1117&hide_border=true" />
-        </a>
-      </td>
-      <td style="border: none;">
-        <a href="https://github.com/Daksh-create349/HyperMind">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh-create349&repo=HyperMind&theme=radical&show_owner=false&bg_color=0D1117&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+[![TimeWise](https://github-readme-stats.vercel.app/api/pin/?username=Daksh-create349&repo=TimeWise&theme=radical&bg_color=0D1117&hide_border=true)](https://github.com/Daksh-create349/TimeWise)
+
+[![HyperMind](https://github-readme-stats.vercel.app/api/pin/?username=Daksh-create349&repo=HyperMind&theme=radical&bg_color=0D1117&hide_border=true)](https://github.com/Daksh-create349/HyperMind)
+
 </div>
 
 ---
@@ -108,30 +86,19 @@ const Daksh = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daksh-create349&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=20C20E" width="100%" />
 </div>
 
-<h2 align="center">🐍 Contribution Snake</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Daksh-create349/Daksh-create349/output/github-contribution-grid-snake.svg?palette=github-dark" width="100%" alt="Snake Game" />
-</div>
-
 ---
 
+<h2 align="center">💬 Final Boss Wisdom</h2>
+
 <div align="center">
+  <img src="https://images.weserv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg&w=150&h=150&fit=cover&mask=circle" alt="Linus Torvalds"/>
   <br/>
-  <table style="border: none; background-color: #0D1117;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://avatars.githubusercontent.com/u/1024025?v=4" width="100" style="border-radius: 50%; border: 3px solid #20C20E;" alt="Linus Torvalds"/>
-      </td>
-      <td valign="center" style="border: none; padding-left: 20px;">
-        <h3 style="color: #ffffff; margin: 0;"><i>"Talk is cheap. Show me the code."</i></h3>
-        <p style="color: #20C20E; margin-top: 5px;"><b>— Linus Torvalds</b><br/>Creator of Linux & Git</p>
-      </td>
-    </tr>
-  </table>
-  <br/>
+  <h2 style="color: #ffffff;">"Talk is cheap. Show me the code."</h2>
+  <p style="color: #20C20E;"><b>— Linus Torvalds</b> (Creator of Linux & Git)</p>
 </div>
 
 <div align="center">
+  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=100&section=footer" width="100%" alt="Footer"/>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Daksh-create349&label=PROFILE+VIEWS&style=for-the-badge&color=20C20E" alt="Profile Views"/>
