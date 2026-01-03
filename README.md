@@ -4,7 +4,7 @@
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=35&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=PLAYER+1:+Daksh+Srivastava;INSERT+COIN+TO+START...;LEVEL:+Full+Stack+Developer;MISSION:+Build+Scalable+Tech" alt="Pixel Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=PLAYER+1:+Daksh+Srivastava;INSERT+COIN+TO+START...;LEVEL:+Full+Stack+Developer;MISSION:+Build+Scalable+Tech" alt="Pixel Typing" />
   </a>
 </div>
 
@@ -62,13 +62,13 @@ const Daksh = {
     <td align="center" width="33%"><b>🔧 Tools</b></td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=3" />
     </td>
-    <td align="center">
+    <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark&perline=3" />
     </td>
-    <td align="center">
+    <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,git,docker&theme=dark&perline=3" />
     </td>
   </tr>
@@ -122,4 +122,6 @@ const Daksh = {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=100&section=footer" width="100%" alt="Footer"/>
+  <br/><br/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaksh-create349&count_bg=%2320C20E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Visitor Count"/>
 </div>
