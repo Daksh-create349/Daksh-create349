@@ -123,5 +123,5 @@ const Daksh = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=100&section=footer" width="100%" alt="Footer"/>
   <br/><br/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaksh-create349&count_bg=%2320C20E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=Daksh-create349&label=PROFILE+VIEWS&style=for-the-badge&color=20C20E" alt="Profile Views"/>
 </div>
