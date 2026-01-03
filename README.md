@@ -1,151 +1,114 @@
-# Daksh Srivastava
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+  <h1>Hi there, I'm Daksh Srivastava! <img src="https://media.giphy.com/media/hvRJCLFzcuMiPTU7qs/giphy.gif" width="30px"></h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Computer+Science+Student;Building+Scalable+Web+Apps;Solver+of+Real-World+Problems" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <b>Passionate about maintainability, performance, and practical system design.</b>
+  </p>
+
+  <p>
+    <a href="https://portfolio-beta-six-xazve9y1so.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/daksh-srivastava-2ba851344/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:dakshshrivastav56@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+---
+
+<h2 align="center">⚡ About Me</h2>
+
+<table>
+  <tr>
+    <td width="60%">
+      <h3>👨‍💻 The Developer</h3>
+      <ul>
+        <li>I am a <b>Computer Science Undergraduate</b> focusing on Data Structures, Databases, and Web Technologies.</li>
+        <li>I enjoy working across the stack — from <b>React</b> interfaces to <b>Node.js</b> backends and SQL/NoSQL databases.</li>
+        <li>I am currently exploring <b>Applied AI</b> and Multi-Agent Systems.</li>
+        <li><b>Goal:</b> To solve real-world problems through clean, scalable code.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+       <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="90%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daksh-create349&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-create349&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph"  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-create349&theme=tokyonight&hide_border=true&background=0d1117" alt="streak graph" />
+</div>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><b>Frontend</b></td>
+    <td align="center" width="90"><b>Backend</b></td>
+    <td align="center" width="90"><b>Database</b></td>
+    <td align="center" width="90"><b>Languages</b></td>
+    <td align="center" width="90"><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py,js,ts,cpp" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,firebase,vercel" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **TimeWise** | 🏫 **Smart Classroom & Timetable Scheduler**<br>Automated timetable generation, conflict detection, and optimized resource utilization for educational institutions. | `React` `Node.js` `MongoDB` |
+| **HyperMind** | 🧠 **AI-Powered Tutoring System**<br>Adaptive tutoring using Generative AI with a multi-agent discussion framework and persistent memory. | `GenAI` `MongoDB` `Full-Stack` |
+| **Dev Utilities** | ⚙️ **Automation & Productivity**<br>Python scripts designed to automate repetitive development tasks and improve workflow efficiency. | `Python` `Automation` |
+
+---
+
+<h2 align="center">🐍 Contribution History</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Daksh-create349/Daksh-create349/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
-**Full-Stack Developer | Computer Science Student**
-
-Passionate about building scalable web applications, writing clean code, and solving real-world problems through technology.
-
----
-
-## 🔗 Links
-- 🌐 Website: https://portfolio-beta-six-xazve9y1so.vercel.app/  
-- 💼 LinkedIn: https://www.linkedin.com/in/daksh-srivastava-2ba851344/  
-- 🧑‍💻 GitHub: https://github.com/Daksh-create349  
-
----
-
-## 👤 Profile Summary
-
-<p align="right">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
-</p>
-
-I am a Computer Science student and full-stack developer with hands-on experience in building end-to-end web applications.  
-My work focuses on maintainability, performance, and practical system design.
-
-I enjoy working across the stack — from frontend interfaces to backend APIs and databases — and I am continuously improving my engineering fundamentals.
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology (B.Tech) – Computer Science Engineering**  
-Undergraduate Student  
-
-- Core focus areas: Data Structures, Databases, Web Technologies, Software Engineering  
-- Actively building academic and independent projects  
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="350"/>
-</p>
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript)
-
-### Frontend
-![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=flat)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase)
-
----
-
-## 🚀 Projects
-
-### **TimeWise**
-**Smart Classroom & Timetable Scheduler**
-
-- Automated timetable generation and classroom allocation  
-- Conflict detection and optimized resource utilization  
-- Student-friendly and teacher-wise schedule views  
-
-**Tech:** React, Node.js, MongoDB  
-
----
-
-### **HyperMind**
-**AI-Powered Tutoring & Multi-Agent System**
-
-- Adaptive tutoring using generative AI  
-- Multi-agent discussion and reasoning framework  
-- Persistent user data and conversation history  
-
-**Tech:** Generative AI APIs, MongoDB, Full-Stack Web  
-
----
-
-### **Developer Utilities**
-**Automation & Productivity Tools**
-
-- Scripts to automate repetitive development tasks  
-- Focus on workflow efficiency and reliability  
-
-**Tech:** Python  
-
----
-
-## 📊 GitHub Activity
-- Active contributor with consistent commits
-- Focus on building production-ready projects
-- Strong emphasis on code quality and documentation
-
-## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/Daksh-create349/Daksh-create349/output/github-contribution-grid-snake.svg" />
-
-## 🎯 Areas of Interest
-
-- Full-Stack Web Development  
-- Backend Systems & API Design  
-- Database Design & Optimization  
-- Applied Artificial Intelligence  
-- Software Architecture  
-
----
-
-## 📫 Contact
-
-- Email: dakshshrivastav56@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/daksh-srivastava-2ba851344/  
-- Portfolio: https://portfolio-beta-six-xazve9y1so.vercel.app/  
-
----
-
-*Last updated: 2026*
-
-
-<!--
-**Daksh-create349/Daksh-create349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
