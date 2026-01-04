@@ -10,7 +10,7 @@
 
 <div align="center">
   <br/>
-  <a href="https://portfolio-beta-six-xazve9y1so.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-START-20C20E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://dakshsportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-START-20C20E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/daksh-srivastava-2ba851344/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dakshshrivastav56@gmail.com"><img src="https://img.shields.io/badge/Email-SEND-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
