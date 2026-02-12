@@ -3,7 +3,7 @@
   
   <br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=35&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;AUTHENTICATED:+DAKSH_SRIVASTAVA;ROLE:+FULL+STACK+ARCHITECT;CORE:+GEN+AI+INTEGRATION" alt="Pixel Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=32&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM...;AUTHENTICATED:+DAKSH_SRIVASTAVA;ROLE:+FULL+STACK+ARCHITECT;CORE:+GEN+AI+INTEGRATION" alt="Pixel Typing" />
 </div>
 
 <div align="center">
@@ -72,7 +72,7 @@
 <h2 align="center">💬 Root Wisdom</h2>
 
 <div align="center">
-  <img src="https://images.weserv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg&w=150&h=150&fit=cover&mask=circle" alt="Linus Torvalds" style="border: 4px solid #20C20E;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/600px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg" width="150" height="150" alt="Linus Torvalds" style="border-radius: 50%; border: 4px solid #20C20E; object-fit: cover;"/>
   <br/>
   <h2 style="color: #ffffff; border: none;">"Talk is cheap. Show me the code."</h2>
   <p style="color: #20C20E; font-size: 1.2em;"><b>— Linus Torvalds</b> (Linux Foundation)</p>
