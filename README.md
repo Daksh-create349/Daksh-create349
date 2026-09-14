@@ -1,15 +1,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg?v=3" />
-  <img alt="Daksh-create349's GitHub profile" src="dark_mode.svg?v=3" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg?v=5" />
+  <img alt="Daksh-create349's GitHub profile" src="dark_mode.svg?v=5" width="100%" />
 </picture>
 
 # Daksh Srivastava
 
 **Full-Stack Developer & Software Builder**  
-Kharghar, Navi Mumbai, India · ITM Skills University · GitHub Pro
+Kharghar, Navi Mumbai, India · ITM Skills University
 
 <br />
 
@@ -117,7 +117,7 @@ I build full-stack web applications, mobile apps, and developer tools with clean
 - **1,200+ Contributions**: Active year-round across personal projects and open source.
 - **1,000+ Commits**: Regular, consistent production commits.
 - **40+ Merged Pull Requests**: Contributing, collaborating, and shipping code.
-- **Badges**: GitHub Pro Verified · 2x Pull Shark Awardee.
+- **Badges**: 2x Pull Shark Awardee.
 
 <div align="center">
 
