@@ -1,20 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="650" viewBox="0 0 980 650" role="img" aria-label="Daksh-create349 GitHub profile (light mode)">
   <style>
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
-    @media (prefers-reduced-motion: reduce) {
-      .scan-wipe { height: 625px !important; }
-      .scan-line { display: none !important; }
-    }
   </style>
   <rect width="980" height="650" fill="#ffffff"/>
-  <defs>
-    <clipPath id="light_scan">
-      <rect class="scan-wipe" x="20" y="30" width="335" height="0">
-        <animate attributeName="height" from="0" to="615" dur="1.8s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
-      </rect>
-    </clipPath>
-  </defs>
-  <g clip-path="url(#light_scan)">
+  <g>
     <text class="mono" x="25" y="44.0" fill="#24292f" xml:space="preserve" font-size="8.6">                                                     .___.</text>
     <text class="mono" x="25" y="54.4" fill="#24292f" xml:space="preserve" font-size="8.6">        __                                        .|jjjjj::</text>
     <text class="mono" x="25" y="64.8" fill="#24292f" xml:space="preserve" font-size="8.6">       ixxxc.                                   .jjjjjjjj::`</text>
@@ -72,11 +61,6 @@
     <text class="mono" x="25" y="605.6" fill="#24292f" xml:space="preserve" font-size="8.6">                   q\                  |@|\</text>
     <text class="mono" x="25" y="616.0" fill="#24292f" xml:space="preserve" font-size="8.6">                                       !V`</text>
   </g>
-  <line class="scan-line" x1="20" y1="30" x2="350" y2="30" stroke="#0969da" stroke-width="2.5" opacity="0.9">
-    <animate attributeName="y1" from="30" to="625" dur="1.8s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
-    <animate attributeName="y2" from="30" to="625" dur="1.8s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
-    <animate attributeName="opacity" values="0.9;0.9;0" keyTimes="0;0.92;1" dur="1.8s" fill="freeze"/>
-  </line>
   <g>
     <text class="mono" x="365" y="48" font-size="22" font-weight="700" letter-spacing="1" fill="#0969da">DAKSH SRIVASTAVA</text>
     <text class="mono" x="365" y="70" font-size="13" font-weight="500" fill="#57606a">Full-Stack Developer &amp; Software Builder</text>

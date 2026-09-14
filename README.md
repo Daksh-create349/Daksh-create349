@@ -121,13 +121,21 @@ I build full-stack web applications, mobile apps, and developer tools with clean
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D Isometric Contribution Graph" src="profile-3d-contrib/profile-night-view.svg" width="100%" />
-</picture>
+<a href="https://honzaap.github.io/GithubCity/?name=Daksh-create349" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D Isometric Contribution Graph" src="profile-3d-contrib/profile-night-view.svg" width="100%" />
+  </picture>
+</a>
 
 <br />
+
+<a href="https://honzaap.github.io/GithubCity/?name=Daksh-create349" target="_blank" rel="noopener noreferrer">
+  <code>[ Click 3D City to interact, rotate &amp; zoom in WebGL ]</code>
+</a>
+
+<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
