@@ -1,0 +1,836 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="650" viewBox="0 0 980 650" role="img" aria-label="Daksh-create349 GitHub profile (light mode)">
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      rect[clip-path] { width: 325px !important; }
+      g { opacity: 1 !important; transform: none !important; }
+    }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+  </style>
+  <rect width="980" height="650" fill="#ffffff"/>
+  <defs>
+    <clipPath id="light_c0">
+      <rect x="25" y="35.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.050s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c1">
+      <rect x="25" y="46.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.072s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c2">
+      <rect x="25" y="56.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.094s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c3">
+      <rect x="25" y="67.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.116s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c4">
+      <rect x="25" y="77.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.138s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c5">
+      <rect x="25" y="87.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.160s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c6">
+      <rect x="25" y="98.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.182s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c7">
+      <rect x="25" y="108.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.204s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c8">
+      <rect x="25" y="119.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.226s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c9">
+      <rect x="25" y="129.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.248s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c10">
+      <rect x="25" y="139.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.270s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c11">
+      <rect x="25" y="150.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.292s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c12">
+      <rect x="25" y="160.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.314s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c13">
+      <rect x="25" y="171.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.336s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c14">
+      <rect x="25" y="181.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.358s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c15">
+      <rect x="25" y="191.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.380s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c16">
+      <rect x="25" y="202.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.402s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c17">
+      <rect x="25" y="212.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.424s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c18">
+      <rect x="25" y="223.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.446s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c19">
+      <rect x="25" y="233.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.468s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c20">
+      <rect x="25" y="243.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.490s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c21">
+      <rect x="25" y="254.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.512s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c22">
+      <rect x="25" y="264.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.534s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c23">
+      <rect x="25" y="275.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.556s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c24">
+      <rect x="25" y="285.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.578s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c25">
+      <rect x="25" y="295.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.600s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c26">
+      <rect x="25" y="306.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.622s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c27">
+      <rect x="25" y="316.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.644s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c28">
+      <rect x="25" y="327.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.666s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c29">
+      <rect x="25" y="337.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.688s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c30">
+      <rect x="25" y="347.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.710s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c31">
+      <rect x="25" y="358.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.732s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c32">
+      <rect x="25" y="368.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.754s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c33">
+      <rect x="25" y="379.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.776s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c34">
+      <rect x="25" y="389.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.798s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c35">
+      <rect x="25" y="399.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.820s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c36">
+      <rect x="25" y="410.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.842s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c37">
+      <rect x="25" y="420.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.864s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c38">
+      <rect x="25" y="431.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.886s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c39">
+      <rect x="25" y="441.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.908s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c40">
+      <rect x="25" y="451.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.930s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c41">
+      <rect x="25" y="462.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.952s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c42">
+      <rect x="25" y="472.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.974s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c43">
+      <rect x="25" y="483.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.996s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c44">
+      <rect x="25" y="493.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.018s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c45">
+      <rect x="25" y="503.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.040s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c46">
+      <rect x="25" y="514.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.062s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c47">
+      <rect x="25" y="524.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.084s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c48">
+      <rect x="25" y="535.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.106s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c49">
+      <rect x="25" y="545.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.128s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c50">
+      <rect x="25" y="555.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.150s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c51">
+      <rect x="25" y="566.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.172s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c52">
+      <rect x="25" y="576.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.194s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c53">
+      <rect x="25" y="587.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.216s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c54">
+      <rect x="25" y="597.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.238s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="light_c55">
+      <rect x="25" y="607.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.260s" dur="0.045s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <!-- ASCII Portrait -->
+  <g clip-path="url(#light_c0)">
+    <text class="mono" x="25" y="44.0" fill="#24292f" xml:space="preserve" font-size="8.6">                                                     .___.</text>
+  </g>
+  <rect y="35.8" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.050s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.050s"/>
+    <set attributeName="opacity" to="0" begin="0.095s"/>
+  </rect>
+  <g clip-path="url(#light_c1)">
+    <text class="mono" x="25" y="54.4" fill="#24292f" xml:space="preserve" font-size="8.6">        __                                        .|jjjjj::</text>
+  </g>
+  <rect y="46.2" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.072s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.072s"/>
+    <set attributeName="opacity" to="0" begin="0.117s"/>
+  </rect>
+  <g clip-path="url(#light_c2)">
+    <text class="mono" x="25" y="64.8" fill="#24292f" xml:space="preserve" font-size="8.6">       ixxxc.                                   .jjjjjjjj::`</text>
+  </g>
+  <rect y="56.6" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.094s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.094s"/>
+    <set attributeName="opacity" to="0" begin="0.139s"/>
+  </rect>
+  <g clip-path="url(#light_c3)">
+    <text class="mono" x="25" y="75.2" fill="#24292f" xml:space="preserve" font-size="8.6">       jxxxjj/                                 _jjjjjxxxj::`</text>
+  </g>
+  <rect y="67.0" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.116s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.116s"/>
+    <set attributeName="opacity" to="0" begin="0.161s"/>
+  </rect>
+  <g clip-path="url(#light_c4)">
+    <text class="mono" x="25" y="85.6" fill="#24292f" xml:space="preserve" font-size="8.6">       xxxxxxxc.                             _jjjjxxxxxjj:::</text>
+  </g>
+  <rect y="77.4" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.138s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.138s"/>
+    <set attributeName="opacity" to="0" begin="0.183s"/>
+  </rect>
+  <g clip-path="url(#light_c5)">
+    <text class="mono" x="25" y="96.0" fill="#24292f" xml:space="preserve" font-size="8.6">       uxxxxxxxx_                           \jjjxxxxxxxxjj:</text>
+  </g>
+  <rect y="87.8" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.160s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.160s"/>
+    <set attributeName="opacity" to="0" begin="0.205s"/>
+  </rect>
+  <g clip-path="url(#light_c6)">
+    <text class="mono" x="25" y="106.4" fill="#24292f" xml:space="preserve" font-size="8.6">       |xxxxxxxjjc.                       .j=jjxxxxxjjjjj::</text>
+  </g>
+  <rect y="98.2" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.182s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.182s"/>
+    <set attributeName="opacity" to="0" begin="0.227s"/>
+  </rect>
+  <g clip-path="url(#light_c7)">
+    <text class="mono" x="25" y="116.8" fill="#24292f" xml:space="preserve" font-size="8.6">       |xooxxxxj::j:::__...__:j::::__j:::j:::jjjjxxxxxxxxj:</text>
+  </g>
+  <rect y="108.6" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.204s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.204s"/>
+    <set attributeName="opacity" to="0" begin="0.249s"/>
+  </rect>
+  <g clip-path="url(#light_c8)">
+    <text class="mono" x="25" y="127.2" fill="#24292f" xml:space="preserve" font-size="8.6">       |xooxxxjjjjjjjjjxug;[xcjjjjx}!uuujjj:j:jjjjjxxxxxj:</text>
+  </g>
+  <rect y="119.0" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.226s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.226s"/>
+    <set attributeName="opacity" to="0" begin="0.271s"/>
+  </rect>
+  <g clip-path="url(#light_c9)">
+    <text class="mono" x="25" y="137.6" fill="#24292f" xml:space="preserve" font-size="8.6">        |xoxxjjugoox::xooxcjjxj:|jj:jooox::1ogujjxxxxxxx:</text>
+  </g>
+  <rect y="129.4" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.248s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.248s"/>
+    <set attributeName="opacity" to="0" begin="0.293s"/>
+  </rect>
+  <g clip-path="url(#light_c10)">
+    <text class="mono" x="25" y="148.0" fill="#24292f" xml:space="preserve" font-size="8.6">        jxxjjxoo@@ox_|ooooxxoxxjxxxxxxxox:_uooooujjjxxjj</text>
+  </g>
+  <rect y="139.8" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.270s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.270s"/>
+    <set attributeName="opacity" to="0" begin="0.315s"/>
+  </rect>
+  <g clip-path="url(#light_c11)">
+    <text class="mono" x="25" y="158.4" fill="#24292f" xml:space="preserve" font-size="8.6">        juxI!-&#x27;-^-Vooooooxxooxxxxxxxxxxooooow---~+1xjjj:</text>
+  </g>
+  <rect y="150.2" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.292s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.292s"/>
+    <set attributeName="opacity" to="0" begin="0.337s"/>
+  </rect>
+  <g clip-path="url(#light_c12)">
+    <text class="mono" x="25" y="168.8" fill="#24292f" xml:space="preserve" font-size="8.6">       \jxj: :: .._ //o@ooxooxxxxxxxxqo@o\\        jxxj</text>
+  </g>
+  <rect y="160.6" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.314s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.314s"/>
+    <set attributeName="opacity" to="0" begin="0.359s"/>
+  </rect>
+  <g clip-path="url(#light_c13)">
+    <text class="mono" x="25" y="179.2" fill="#24292f" xml:space="preserve" font-size="8.6">      \uggp:i|    :  :[@@oxoxxxjxxoox@@pc_:::!`  |;|ggu/</text>
+  </g>
+  <rect y="171.0" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.336s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.336s"/>
+    <set attributeName="opacity" to="0" begin="0.381s"/>
+  </rect>
+  <g clip-path="url(#light_c14)">
+    <text class="mono" x="25" y="189.6" fill="#24292f" xml:space="preserve" font-size="8.6">     jja$@@/js/:  ._z` qoooooxxxxxoox@@|&#x27;1;     .j:q@@ox:</text>
+  </g>
+  <rect y="181.4" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.358s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.358s"/>
+    <set attributeName="opacity" to="0" begin="0.403s"/>
+  </rect>
+  <g clip-path="url(#light_c15)">
+    <text class="mono" x="25" y="200.0" fill="#24292f" xml:space="preserve" font-size="8.6">    :jjxxxxUUoggggggu;:jxxxoooooooxxxxv:__ug----ggoomxxjj:</text>
+  </g>
+  <rect y="191.8" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.380s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.380s"/>
+    <set attributeName="opacity" to="0" begin="0.425s"/>
+  </rect>
+  <g clip-path="url(#light_c16)">
+    <text class="mono" x="25" y="210.4" fill="#24292f" xml:space="preserve" font-size="8.6">   |jxxxxxxxxxxaa@Uwjjxxxxooooooooooxjj:jjao@o@wxxxxxjjjj:</text>
+  </g>
+  <rect y="202.2" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.402s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.402s"/>
+    <set attributeName="opacity" to="0" begin="0.447s"/>
+  </rect>
+  <g clip-path="url(#light_c17)">
+    <text class="mono" x="25" y="220.8" fill="#24292f" xml:space="preserve" font-size="8.6">   joxxxxjjjxxxxxxxxuxxxxxnxxxooxxxoxjjxujjxxxxxxjjjjjjxxj.</text>
+  </g>
+  <rect y="212.6" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.424s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.424s"/>
+    <set attributeName="opacity" to="0" begin="0.469s"/>
+  </rect>
+  <g clip-path="url(#light_c18)">
+    <text class="mono" x="25" y="231.2" fill="#24292f" xml:space="preserve" font-size="8.6">  jjnvj::::jxxxxxxooooo]:jjjxxxxxxjj::1oooooxxxxjjjjjv=jxxx;</text>
+  </g>
+  <rect y="223.0" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.446s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.446s"/>
+    <set attributeName="opacity" to="0" begin="0.491s"/>
+  </rect>
+  <g clip-path="url(#light_c19)">
+    <text class="mono" x="25" y="241.6" fill="#24292f" xml:space="preserve" font-size="8.6">  xxuuuxxjjjxxxjv1xao@@g/_. !jxxj&#x27; ._-g@ooxxxxjxxx:__j__jj::</text>
+  </g>
+  <rect y="233.4" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.468s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.468s"/>
+    <set attributeName="opacity" to="0" begin="0.513s"/>
+  </rect>
+  <g clip-path="url(#light_c20)">
+    <text class="mono" x="25" y="252.0" fill="#24292f" xml:space="preserve" font-size="8.6">  |xxo$ooxxjjugoooooo@@@@@@/:j&#x27;j::\@@@@@@oxouuujjjxxoooxxjj`</text>
+  </g>
+  <rect y="243.8" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.490s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.490s"/>
+    <set attributeName="opacity" to="0" begin="0.535s"/>
+  </rect>
+  <g clip-path="url(#light_c21)">
+    <text class="mono" x="25" y="262.4" fill="#24292f" xml:space="preserve" font-size="8.6">  |xooogxoooxooooooo@@@@@@@@/: :\\@@@@@@oooogguxxxxxxxxjxxj</text>
+  </g>
+  <rect y="254.2" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.512s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.512s"/>
+    <set attributeName="opacity" to="0" begin="0.557s"/>
+  </rect>
+  <g clip-path="url(#light_c22)">
+    <text class="mono" x="25" y="272.8" fill="#24292f" xml:space="preserve" font-size="8.6">  |oo@o@ooooooooooooo@oo@ooooxjjoooooooooooguugooxxxxoooo|</text>
+  </g>
+  <rect y="264.6" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.534s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.534s"/>
+    <set attributeName="opacity" to="0" begin="0.579s"/>
+  </rect>
+  <g clip-path="url(#light_c23)">
+    <text class="mono" x="25" y="283.2" fill="#24292f" xml:space="preserve" font-size="8.6"> |@pxxoo@@@@@ooxxxxxxxoowwwxxjjjjxoa$oooxxxxxxoo@oooooooo|</text>
+  </g>
+  <rect y="275.0" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.556s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.556s"/>
+    <set attributeName="opacity" to="0" begin="0.601s"/>
+  </rect>
+  <g clip-path="url(#light_c24)">
+    <text class="mono" x="25" y="293.6" fill="#24292f" xml:space="preserve" font-size="8.6"> |@@oxxxxxxaooxxxxxjxxxxxxoooooooooxxxxxjjugoooooooooooxjq|</text>
+  </g>
+  <rect y="285.4" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.578s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.578s"/>
+    <set attributeName="opacity" to="0" begin="0.623s"/>
+  </rect>
+  <g clip-path="url(#light_c25)">
+    <text class="mono" x="25" y="304.0" fill="#24292f" xml:space="preserve" font-size="8.6">|@@@oxxxxooooxxxxjjjxjxxxxxxooxooooxxxxxxxoooooooxxxxxxxog|</text>
+  </g>
+  <rect y="295.8" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.600s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.600s"/>
+    <set attributeName="opacity" to="0" begin="0.645s"/>
+  </rect>
+  <g clip-path="url(#light_c26)">
+    <text class="mono" x="25" y="314.4" fill="#24292f" xml:space="preserve" font-size="8.6">|@@@@ggxoooooooooxxxxxxxxxxxjxjjxjjxxooooooooooooooooxxg@@|</text>
+  </g>
+  <rect y="306.2" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.622s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.622s"/>
+    <set attributeName="opacity" to="0" begin="0.667s"/>
+  </rect>
+  <g clip-path="url(#light_c27)">
+    <text class="mono" x="25" y="324.8" fill="#24292f" xml:space="preserve" font-size="8.6">|@@@@@@gpxxooooooooooooooooooogjogxoo@oooooooooooooxxq@@@@|</text>
+  </g>
+  <rect y="316.6" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.644s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.644s"/>
+    <set attributeName="opacity" to="0" begin="0.689s"/>
+  </rect>
+  <g clip-path="url(#light_c28)">
+    <text class="mono" x="25" y="335.2" fill="#24292f" xml:space="preserve" font-size="8.6"> |@@@@@@@@@oooooooo@o@@@o@ow@@@oxoo@o@ooooooooooooxxu@@@@@|</text>
+  </g>
+  <rect y="327.0" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.666s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.666s"/>
+    <set attributeName="opacity" to="0" begin="0.711s"/>
+  </rect>
+  <g clip-path="url(#light_c29)">
+    <text class="mono" x="25" y="345.6" fill="#24292f" xml:space="preserve" font-size="8.6"> |@@@@@@@@@@@goooooooo@@opxuo@@@xoo@oooooooooooxxxx\@@@@@o|</text>
+  </g>
+  <rect y="337.4" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.688s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.688s"/>
+    <set attributeName="opacity" to="0" begin="0.733s"/>
+  </rect>
+  <g clip-path="url(#light_c30)">
+    <text class="mono" x="25" y="356.0" fill="#24292f" xml:space="preserve" font-size="8.6">  |@@@@@@@@@@@@gyxxooooowjxooooooxoooooooooxxxxjug@@@@@@@|</text>
+  </g>
+  <rect y="347.8" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.710s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.710s"/>
+    <set attributeName="opacity" to="0" begin="0.755s"/>
+  </rect>
+  <g clip-path="url(#light_c31)">
+    <text class="mono" x="25" y="366.4" fill="#24292f" xml:space="preserve" font-size="8.6">  ||@@@@@@@@@@@@@@gjjxxxxxxoooooxxxooxxxjjjjjug@@@@@@@@@||</text>
+  </g>
+  <rect y="358.2" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.732s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.732s"/>
+    <set attributeName="opacity" to="0" begin="0.777s"/>
+  </rect>
+  <g clip-path="url(#light_c32)">
+    <text class="mono" x="25" y="376.8" fill="#24292f" xml:space="preserve" font-size="8.6">   |@@@@@@@@@@@@@@@@ggxxxxxxxooxxxxxxxjjj|\g@@@@@@@@@@@o|</text>
+  </g>
+  <rect y="368.6" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.754s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.754s"/>
+    <set attributeName="opacity" to="0" begin="0.799s"/>
+  </rect>
+  <g clip-path="url(#light_c33)">
+    <text class="mono" x="25" y="387.2" fill="#24292f" xml:space="preserve" font-size="8.6">    |@@@@@@@@@@@@@@@@@@gguxxjjxxjjjxxxugg@@@@@@@@@@@@@@|</text>
+  </g>
+  <rect y="379.0" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.776s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.776s"/>
+    <set attributeName="opacity" to="0" begin="0.821s"/>
+  </rect>
+  <g clip-path="url(#light_c34)">
+    <text class="mono" x="25" y="397.6" fill="#24292f" xml:space="preserve" font-size="8.6">     |@@@@@@@@@@@@@@@@@@@@@@gggujjugg@@@@@@@@@@@@@@@@o|</text>
+  </g>
+  <rect y="389.4" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.798s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.798s"/>
+    <set attributeName="opacity" to="0" begin="0.843s"/>
+  </rect>
+  <g clip-path="url(#light_c35)">
+    <text class="mono" x="25" y="408.0" fill="#24292f" xml:space="preserve" font-size="8.6">     &#x27;q@@@@@@@@@@@@@@@@@@@@@@Q@@@@@@@@@@@@@@@@@@@@@@@o|</text>
+  </g>
+  <rect y="399.8" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.820s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.820s"/>
+    <set attributeName="opacity" to="0" begin="0.865s"/>
+  </rect>
+  <g clip-path="url(#light_c36)">
+    <text class="mono" x="25" y="418.4" fill="#24292f" xml:space="preserve" font-size="8.6">      //@@@@@@@@@@@@@@@@@@@\\ :&#x27;-//@@@@@@@@@@@@@@@@o@|</text>
+  </g>
+  <rect y="410.2" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.842s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.842s"/>
+    <set attributeName="opacity" to="0" begin="0.887s"/>
+  </rect>
+  <g clip-path="url(#light_c37)">
+    <text class="mono" x="25" y="428.8" fill="#24292f" xml:space="preserve" font-size="8.6">        /@@@@@@@@@@@@@@@@@\\      //@@@@@@@@@@@@@@@@p</text>
+  </g>
+  <rect y="420.6" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.864s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.864s"/>
+    <set attributeName="opacity" to="0" begin="0.909s"/>
+  </rect>
+  <g clip-path="url(#light_c38)">
+    <text class="mono" x="25" y="439.2" fill="#24292f" xml:space="preserve" font-size="8.6">         /@@@@@@@@@@@@@@@\\        //@@@@@@@@@@@@@@\\</text>
+  </g>
+  <rect y="431.0" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.886s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.886s"/>
+    <set attributeName="opacity" to="0" begin="0.931s"/>
+  </rect>
+  <g clip-path="url(#light_c39)">
+    <text class="mono" x="25" y="449.6" fill="#24292f" xml:space="preserve" font-size="8.6">         ||@@@@@@@@@@@@@\&#x27;           /@@@@@@@@@@@@\</text>
+  </g>
+  <rect y="441.4" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.908s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.908s"/>
+    <set attributeName="opacity" to="0" begin="0.953s"/>
+  </rect>
+  <g clip-path="url(#light_c40)">
+    <text class="mono" x="25" y="460.0" fill="#24292f" xml:space="preserve" font-size="8.6">          |@@@@@@@@@@@@\:     :       /Q@@@@@@@@@p\</text>
+  </g>
+  <rect y="451.8" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.930s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.930s"/>
+    <set attributeName="opacity" to="0" begin="0.975s"/>
+  </rect>
+  <g clip-path="url(#light_c41)">
+    <text class="mono" x="25" y="470.4" fill="#24292f" xml:space="preserve" font-size="8.6">           |@@@@@@@@@@|      :::       |@@@@@@@@||</text>
+  </g>
+  <rect y="462.2" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.952s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.952s"/>
+    <set attributeName="opacity" to="0" begin="0.997s"/>
+  </rect>
+  <g clip-path="url(#light_c42)">
+    <text class="mono" x="25" y="480.8" fill="#24292f" xml:space="preserve" font-size="8.6">            |@@@@@@@@@x/     :::     \\ug@@@@@@@|</text>
+  </g>
+  <rect y="472.6" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.974s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.974s"/>
+    <set attributeName="opacity" to="0" begin="1.019s"/>
+  </rect>
+  <g clip-path="url(#light_c43)">
+    <text class="mono" x="25" y="491.2" fill="#24292f" xml:space="preserve" font-size="8.6">            |@@@@@@@@ooo/    : :    \g@@@o@@@@@||</text>
+  </g>
+  <rect y="483.0" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="0.996s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="0.996s"/>
+    <set attributeName="opacity" to="0" begin="1.041s"/>
+  </rect>
+  <g clip-path="url(#light_c44)">
+    <text class="mono" x="25" y="501.6" fill="#24292f" xml:space="preserve" font-size="8.6">             |@@@@@@o@@@@/    :    \@@@@@@o@@@@|</text>
+  </g>
+  <rect y="493.4" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="1.018s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.018s"/>
+    <set attributeName="opacity" to="0" begin="1.063s"/>
+  </rect>
+  <g clip-path="url(#light_c45)">
+    <text class="mono" x="25" y="512.0" fill="#24292f" xml:space="preserve" font-size="8.6">             |@@@@@o@@@@@||       |@@@@@@@@o@@|</text>
+  </g>
+  <rect y="503.8" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="1.040s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.040s"/>
+    <set attributeName="opacity" to="0" begin="1.085s"/>
+  </rect>
+  <g clip-path="url(#light_c46)">
+    <text class="mono" x="25" y="522.4" fill="#24292f" xml:space="preserve" font-size="8.6">              |@@@o@@@@@@|`       |@@@@@@@@@@@|</text>
+  </g>
+  <rect y="514.2" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="1.062s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.062s"/>
+    <set attributeName="opacity" to="0" begin="1.107s"/>
+  </rect>
+  <g clip-path="url(#light_c47)">
+    <text class="mono" x="25" y="532.8" fill="#24292f" xml:space="preserve" font-size="8.6">              ||@o@@@@@@@|        ||@@@@@@@@@|</text>
+  </g>
+  <rect y="524.6" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="1.084s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.084s"/>
+    <set attributeName="opacity" to="0" begin="1.129s"/>
+  </rect>
+  <g clip-path="url(#light_c48)">
+    <text class="mono" x="25" y="543.2" fill="#24292f" xml:space="preserve" font-size="8.6">               |@@@@@@@@|          |@@@@@@@@@|</text>
+  </g>
+  <rect y="535.0" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="1.106s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.106s"/>
+    <set attributeName="opacity" to="0" begin="1.151s"/>
+  </rect>
+  <g clip-path="url(#light_c49)">
+    <text class="mono" x="25" y="553.6" fill="#24292f" xml:space="preserve" font-size="8.6">               ||@@@@@@||          :|@@@@@@@|</text>
+  </g>
+  <rect y="545.4" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="1.128s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.128s"/>
+    <set attributeName="opacity" to="0" begin="1.173s"/>
+  </rect>
+  <g clip-path="url(#light_c50)">
+    <text class="mono" x="25" y="564.0" fill="#24292f" xml:space="preserve" font-size="8.6">                |@@@@@||            ||@@@@@@|</text>
+  </g>
+  <rect y="555.8" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="1.150s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.150s"/>
+    <set attributeName="opacity" to="0" begin="1.195s"/>
+  </rect>
+  <g clip-path="url(#light_c51)">
+    <text class="mono" x="25" y="574.4" fill="#24292f" xml:space="preserve" font-size="8.6">                 |@@@@|              |@@@@@|</text>
+  </g>
+  <rect y="566.2" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="1.172s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.172s"/>
+    <set attributeName="opacity" to="0" begin="1.217s"/>
+  </rect>
+  <g clip-path="url(#light_c52)">
+    <text class="mono" x="25" y="584.8" fill="#24292f" xml:space="preserve" font-size="8.6">                 |@@@||              ||@@@@|</text>
+  </g>
+  <rect y="576.6" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="1.194s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.194s"/>
+    <set attributeName="opacity" to="0" begin="1.239s"/>
+  </rect>
+  <g clip-path="url(#light_c53)">
+    <text class="mono" x="25" y="595.2" fill="#24292f" xml:space="preserve" font-size="8.6">                  |@@|                |@@@|</text>
+  </g>
+  <rect y="587.0" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="1.216s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.216s"/>
+    <set attributeName="opacity" to="0" begin="1.261s"/>
+  </rect>
+  <g clip-path="url(#light_c54)">
+    <text class="mono" x="25" y="605.6" fill="#24292f" xml:space="preserve" font-size="8.6">                   q\                  |@|\</text>
+  </g>
+  <rect y="597.4" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="1.238s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.238s"/>
+    <set attributeName="opacity" to="0" begin="1.283s"/>
+  </rect>
+  <g clip-path="url(#light_c55)">
+    <text class="mono" x="25" y="616.0" fill="#24292f" xml:space="preserve" font-size="8.6">                                       !V`</text>
+  </g>
+  <rect y="607.8" width="5" height="10.2" fill="#0969da" opacity="0">
+    <animate attributeName="x" from="25" to="325" begin="1.260s" dur="0.045s" fill="freeze"/>
+    <set attributeName="opacity" to="0.85" begin="1.260s"/>
+    <set attributeName="opacity" to="0" begin="1.305s"/>
+  </rect>
+  <g opacity="0" transform="translate(0, 6)">
+    <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.35s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.15s" dur="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <text class="mono" x="365" y="48" font-size="22" font-weight="700" letter-spacing="1" fill="#0969da">DAKSH SRIVASTAVA</text>
+    <text class="mono" x="365" y="70" font-size="13" font-weight="500" fill="#57606a">Full-Stack Developer &amp; Software Builder</text>
+    <text class="mono" x="365" y="88" font-size="11" fill="#656d76">ITM Skills University  ·  Kharghar, Navi Mumbai  ·  GitHub Pro</text>
+    <line x1="365" y1="100" x2="955" y2="100" stroke="#eaeef2" stroke-dasharray="3 3" stroke-width="1"/>
+  </g>
+  <g opacity="0" transform="translate(0, 6)">
+    <animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.35s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.30s" dur="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <rect x="365" y="112" width="185" height="42" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text class="mono" x="379" y="130" font-size="14" font-weight="700" fill="#0969da">87+ Repositories</text>
+    <text class="mono" x="379" y="144" font-size="9.5" fill="#57606a">Projects Built</text>
+    <rect x="560" y="112" width="190" height="42" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text class="mono" x="574" y="130" font-size="14" font-weight="700" fill="#0969da">1,200+ Contributions</text>
+    <text class="mono" x="574" y="144" font-size="9.5" fill="#57606a">Active This Year</text>
+    <rect x="760" y="112" width="195" height="42" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+    <text class="mono" x="774" y="130" font-size="14" font-weight="700" fill="#0969da">1,000+ Commits</text>
+    <text class="mono" x="774" y="144" font-size="9.5" fill="#57606a">40+ Pull Requests Merged</text>
+  </g>
+  <g opacity="0" transform="translate(0, 6)">
+    <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.35s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.45s" dur="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <text class="mono" x="365" y="180" font-size="12" font-weight="700" letter-spacing="0.5" fill="#0969da">// TECH STACK</text>
+    <text class="mono" x="365" y="200" font-size="11.5">
+      <tspan fill="#b04c00">LANGUAGES :: </tspan>
+      <tspan fill="#1f2328">TypeScript · Python · JavaScript · Dart · Go · SQL · C++</tspan>
+    </text>
+    <text class="mono" x="365" y="220" font-size="11.5">
+      <tspan fill="#b04c00">FRONTEND  :: </tspan>
+      <tspan fill="#1f2328">React · Next.js · Flutter · Tailwind CSS · Three.js</tspan>
+    </text>
+    <text class="mono" x="365" y="240" font-size="11.5">
+      <tspan fill="#b04c00">BACKEND   :: </tspan>
+      <tspan fill="#1f2328">Node.js · Express · FastAPI · PostgreSQL · MongoDB · Redis</tspan>
+    </text>
+    <text class="mono" x="365" y="260" font-size="11.5">
+      <tspan fill="#b04c00">TOOLS &amp; AI:: </tspan>
+      <tspan fill="#1f2328">Docker · Linux · Git · Ollama · LangChain · Model Context Protocol</tspan>
+    </text>
+  </g>
+  <g opacity="0" transform="translate(0, 6)">
+    <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.35s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.60s" dur="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <text class="mono" x="365" y="300" font-size="12" font-weight="700" letter-spacing="0.5" fill="#0969da">// FEATURED PROJECTS</text>
+    <text class="mono" x="365" y="320" font-size="11.5">
+      <tspan fill="#0969da">Contradiction-MCP </tspan>
+      <tspan fill="#57606a">─ </tspan>
+      <tspan fill="#1f2328">AI tool to detect and resolve knowledge conflicts</tspan>
+    </text>
+    <text class="mono" x="365" y="340" font-size="11.5">
+      <tspan fill="#0969da">Sonaura 2.0       </tspan>
+      <tspan fill="#57606a">─ </tspan>
+      <tspan fill="#1f2328">Spatial 3D audio booster for browser tabs</tspan>
+    </text>
+    <text class="mono" x="365" y="360" font-size="11.5">
+      <tspan fill="#0969da">Legal Navigator   </tspan>
+      <tspan fill="#57606a">─ </tspan>
+      <tspan fill="#1f2328">AI legal assistant for everyday questions</tspan>
+    </text>
+    <text class="mono" x="365" y="380" font-size="11.5">
+      <tspan fill="#0969da">AgroSentry AI     </tspan>
+      <tspan fill="#57606a">─ </tspan>
+      <tspan fill="#1f2328">Offline mobile app to detect crop diseases with AI</tspan>
+    </text>
+  </g>
+  <g opacity="0" transform="translate(0, 6)">
+    <animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.35s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.75s" dur="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <text class="mono" x="365" y="420" font-size="12" font-weight="700" letter-spacing="0.5" fill="#0969da">// CONNECT</text>
+    <text class="mono" x="365" y="440" font-size="11.5">
+      <tspan fill="#b04c00">PORTFOLIO </tspan><tspan fill="#57606a">:: </tspan><tspan fill="#1f2328">https://dakshsportfolio.vercel.app/</tspan>
+    </text>
+    <text class="mono" x="365" y="460" font-size="11.5">
+      <tspan fill="#b04c00">LINKEDIN  </tspan><tspan fill="#57606a">:: </tspan><tspan fill="#1f2328">linkedin.com/in/daksh-srivastava-2ba851344</tspan>
+    </text>
+    <text class="mono" x="365" y="480" font-size="11.5">
+      <tspan fill="#b04c00">TWITTER/X </tspan><tspan fill="#57606a">:: </tspan><tspan fill="#1f2328">@Dksh_71</tspan>
+      <tspan fill="#b04c00">   EMAIL </tspan><tspan fill="#57606a">:: </tspan><tspan fill="#1f2328">dakshshrivastav56@gmail.com</tspan>
+    </text>
+  </g>
+  <g opacity="0" transform="translate(0, 6)">
+    <animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.35s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.90s" dur="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <text class="mono" x="365" y="520" font-size="12" font-weight="700" letter-spacing="0.5" fill="#0969da">// GITHUB ACTIVITY</text>
+    <text class="mono" x="365" y="542" font-size="13" fill="#1a7f37">  ▂▂  ▆▆▂▅▆▅ ▂▆▄▇▆▇▅▄▇▇▆▇▆▆▆▅█▇▅▆▆▅▅▇▄▄▇▃▂▄▆▅▇▅▇▇▇▇▆▇▆</text>
+    <text class="mono" x="365" y="572" font-size="12">
+      <tspan fill="#0969da">daksh@dev:~$ </tspan>
+      <tspan fill="#1a7f37">git status --clean</tspan>
+    </text>
+    <rect x="590" y="559" width="8" height="15" fill="#0969da">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite" begin="1.2s"/>
+    </rect>
+  </g>
+</svg>

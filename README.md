@@ -1,86 +1,119 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=250&section=header&text=Daksh%20Srivastava&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header"/>
-  
-  <br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=32&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM...;AUTHENTICATED:+DAKSH_SRIVASTAVA;ROLE:+FULL+STACK+ARCHITECT;CORE:+GEN+AI+INTEGRATION" alt="Pixel Typing" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Daksh-create349's GitHub profile" src="dark_mode.svg" width="100%" />
+</picture>
+
+# Daksh Srivastava
+
+**Full-Stack Developer & Software Builder**  
+Kharghar, Navi Mumbai, India · ITM Skills University · GitHub Pro
+
+[Portfolio](https://dakshsportfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/daksh-srivastava-2ba851344/) · [Twitter / X](https://x.com/Dksh_71) · [Email](mailto:dakshshrivastav56@gmail.com)
+
+---
+
 </div>
 
+## About Me
+
+I build full-stack web applications, mobile apps, and developer tools with clean UI and fast backends. I like turning ideas into real products and experimenting with modern tech like 3D audio, on-device AI, and automated workflows.
+
+- **Full-Stack Development**: Building fast, accessible apps with TypeScript, React, Next.js, and Node.js.
+- **AI & Developer Tools**: Crafting practical AI assistants and developer utilities with Ollama, ChromaDB, and Python.
+- **Mobile & Cross-Platform**: Creating offline-first mobile apps using Flutter and Dart.
+- **Creative Web Tech**: Experimenting with Web Audio API for spatial audio and Three.js for interactive web experiences.
+
+---
+
+## Current Focus
+
+- **Building**: Enhancing `Contradiction-MCP` with automated conflict detection across knowledge bases.
+- **Exploring**: Go concurrency patterns and high-performance browser graphics with WebGPU.
+- **Learning**: Distributed system architectures, consensus primitives, and local vector indexing pipelines.
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Contradiction-MCP](https://github.com/Daksh-create349/Contradiction-MCP)** | An open-source AI tool to detect and resolve conflicting information across documentation and knowledge bases. | TypeScript, Model Context Protocol |
+| **[Sonaura 2.0](https://github.com/Daksh-create349/Sonaura-2.0)** | A browser-based audio tool that intercepts tab audio to deliver cinema-grade 3D spatial sound to headphones. | JavaScript, Web Audio API |
+| **[Indian Legal Aid Navigator](https://github.com/Daksh-create349/Indian-Legal-Aid-Navigator)** | An AI legal assistant that helps citizens navigate legal questions using local search and open-source models. | Python, ChromaDB, Ollama |
+| **[AgroSentry AI](https://github.com/Daksh-create349/AGROSENTRY)** | An offline mobile app that detects plant and crop diseases directly on the device using computer vision. | Flutter, Dart, Computer Vision |
+| **[Company-Brain](https://github.com/Daksh-create349/Company-Brain)** | An automated tool for matching vendor invoices with purchase orders to simplify logistics accounting. | Python, Document AI |
+| **[Github-Guardian](https://github.com/Daksh-create349/Github-Guardian)** | Automated security and branch policy enforcement tool for GitHub repositories. | JavaScript, GitHub Actions |
+
+---
+
+## Open Source Highlights
+
+- **Model Context Protocol (MCP)**: Building open tooling and standardized servers for developer workflows.
+- **Client-Side DSP**: Experimenting with browser-native Web Audio nodes for spatial 3D audio.
+- **Collaborative Shipping**: 40+ merged pull requests across personal and open-source codebases with a 2x Pull Shark award.
+
+---
+
+## Tech Stack
+
+### Languages
+`TypeScript` · `Python` · `JavaScript` · `Dart` · `Go` · `SQL` · `C++` · `Bash`
+
+### Frontend & Mobile
+`React` · `Next.js` · `Flutter` · `Tailwind CSS` · `Three.js` · `HTML5` · `CSS3`
+
+### Backend & Databases
+`Node.js` · `Express` · `FastAPI` · `PostgreSQL` · `MongoDB` · `Redis` · `REST APIs`
+
+### Tools & AI
+`Docker` · `Linux` · `Git & GitHub Actions` · `Ollama` · `LangChain` · `ChromaDB` · `Vercel`
+
+---
+
+## Writing & Notes
+
+<!-- BLOG-POST-LIST:START -->
+- [Understanding Model Context Protocol (MCP) for Developers](https://dakshsportfolio.vercel.app/) — Key patterns and practical use cases for AI tooling.
+- [Building 3D Spatial Audio in the Browser with Web Audio API](https://dakshsportfolio.vercel.app/) — Technical breakdown of PannerNodes and binaural listening.
+- [Setting Up Local-First RAG with ChromaDB and Ollama](https://dakshsportfolio.vercel.app/) — Practical guide to running private vector search pipelines.
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## GitHub Highlights
+
+- **87+ Repositories**: Covering web apps, mobile projects, developer tools, and experiments.
+- **1,200+ Contributions**: Active year-round across personal projects and open source.
+- **1,000+ Commits**: Regular, consistent production commits.
+- **40+ Merged Pull Requests**: Contributing, collaborating, and shipping code.
+- **Badges**: GitHub Pro Verified · 2x Pull Shark Awardee.
+
 <div align="center">
-  <br/>
-  <a href="https://dakshsportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-START-20C20E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/daksh-srivastava-2ba851344/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dakshshrivastav56@gmail.com"><img src="https://img.shields.io/badge/Email-SEND-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daksh-create349/Daksh-create349/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daksh-create349/Daksh-create349/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Daksh-create349/Daksh-create349/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 </div>
 
 ---
 
-<h2 align="center">📟 Terminal Log: system_specs.sh</h2>
+## Connect
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=%3E+root@daksh:~%24+cat+core_competencies;%3E+Frontend:+Next.js+%26+Responsive+UI;%3E+Backend:+Node.js+%26+Distributed+Systems;%3E+AI:+Generative+Models+%26+LLM+Pipelines;%3E+Architecture:+Scalable+System+Design;%3E+STATUS:+READY_FOR_DEPLOYMENT" alt="Terminal Typing" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*_ViO7IlQ0DRYnc9_.gif" width="100%" style="border-radius: 15px; border: 3px solid #20C20E;" alt="Gaming Setup"/>
-</div>
+- Portfolio: [dakshsportfolio.vercel.app](https://dakshsportfolio.vercel.app/)
+- LinkedIn: [linkedin.com/in/daksh-srivastava-2ba851344](https://www.linkedin.com/in/daksh-srivastava-2ba851344/)
+- Twitter / X: [@Dksh_71](https://x.com/Dksh_71)
+- Email: [dakshshrivastav56@gmail.com](mailto:dakshshrivastav56@gmail.com)
 
 ---
 
-<h2 align="center">⚔️ Production Stack (Inventory)</h2>
-
 <div align="center">
-
-| LAYER | TECHNOLOGIES |
-| :--- | :--- |
-| **🎨 CLIENT-SIDE** | `React` `Next.js` `Tailwind` `Three.js` |
-| **⚙️ SERVER-SIDE** | `Node.js` `Express` `MongoDB` `PostgreSQL` |
-| **🤖 AI & TOOLS** | `GenAI` `Python` `Docker` `Linux` `Git` |
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,postgres,py,cpp,ts,docker,git&theme=dark&perline=6" />
-
-</div>
-
----
-
-<h2 align="center">🔥 Uptime Streak (Consistency Metrics)</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-create349&theme=radical&hide_border=true&background=0D1117&stroke=20C20E&ring=20C20E&fire=20C20E" alt="Streak Stats" />
-</div>
-
----
-
-<h2 align="center">📈 Logic Flow (Activity Graph)</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daksh-create349&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=20C20E" width="100%" alt="Activity Graph" />
-</div>
-
-<h2 align="center">🐍 Contribution Pulse</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Daksh-create349/Daksh-create349/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-<h2 align="center">💬 Root Wisdom</h2>
-
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/600px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg" width="150" height="150" alt="Linus Torvalds" style="border-radius: 50%; border: 4px solid #20C20E; object-fit: cover;"/>
-  <br/>
-  <h2 style="color: #ffffff; border: none;">"Talk is cheap. Show me the code."</h2>
-  <p style="color: #20C20E; font-size: 1.2em;"><b>— Linus Torvalds</b> (Linux Foundation)</p>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=100&section=footer" width="100%" alt="Footer"/>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Daksh-create349&label=SYSTEM+ACCESSES&style=for-the-badge&color=20C20E" alt="Profile Views"/>
+  <img src="ascii-animation.gif" alt="Development routine" width="260" />
+  <br /><br />
+  <code>[routine] code · test · ship · repeat</code>
 </div>
