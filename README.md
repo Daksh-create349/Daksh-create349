@@ -123,9 +123,9 @@ I build full-stack web applications, mobile apps, and developer tools with clean
 
 <a href="https://honzaap.github.io/GithubCity/?name=Daksh-create349" target="_blank" rel="noopener noreferrer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg" />
     <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
-    <img alt="3D Isometric Contribution Graph" src="profile-3d-contrib/profile-night-view.svg" width="100%" />
+    <img alt="3D Isometric Contribution Graph" src="profile-3d-contrib/profile-night-green.svg" width="100%" />
   </picture>
 </a>
 
