@@ -1,64 +1,460 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="650" viewBox="0 0 980 650" role="img" aria-label="Daksh-create349 GitHub profile (dark mode)">
   <style>
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    @media (prefers-reduced-motion: reduce) {
+      rect[clip-path] { width: 325px !important; }
+    }
   </style>
   <rect width="980" height="650" fill="#000000"/>
-  <g>
+  <defs>
+    <clipPath id="dark_c0">
+      <rect x="25" y="35.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.050s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c1">
+      <rect x="25" y="46.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.078s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c2">
+      <rect x="25" y="56.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.106s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c3">
+      <rect x="25" y="67.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.134s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c4">
+      <rect x="25" y="77.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.162s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c5">
+      <rect x="25" y="87.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.190s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c6">
+      <rect x="25" y="98.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.218s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c7">
+      <rect x="25" y="108.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.246s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c8">
+      <rect x="25" y="119.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.274s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c9">
+      <rect x="25" y="129.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.302s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c10">
+      <rect x="25" y="139.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.330s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c11">
+      <rect x="25" y="150.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.358s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c12">
+      <rect x="25" y="160.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.386s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c13">
+      <rect x="25" y="171.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.414s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c14">
+      <rect x="25" y="181.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.442s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c15">
+      <rect x="25" y="191.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.470s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c16">
+      <rect x="25" y="202.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.498s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c17">
+      <rect x="25" y="212.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.526s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c18">
+      <rect x="25" y="223.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.554s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c19">
+      <rect x="25" y="233.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.582s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c20">
+      <rect x="25" y="243.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.610s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c21">
+      <rect x="25" y="254.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.638s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c22">
+      <rect x="25" y="264.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.666s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c23">
+      <rect x="25" y="275.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.694s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c24">
+      <rect x="25" y="285.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.722s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c25">
+      <rect x="25" y="295.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.750s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c26">
+      <rect x="25" y="306.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.778s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c27">
+      <rect x="25" y="316.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.806s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c28">
+      <rect x="25" y="327.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.834s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c29">
+      <rect x="25" y="337.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.862s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c30">
+      <rect x="25" y="347.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.890s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c31">
+      <rect x="25" y="358.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.918s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c32">
+      <rect x="25" y="368.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.946s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c33">
+      <rect x="25" y="379.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="0.974s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c34">
+      <rect x="25" y="389.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.002s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c35">
+      <rect x="25" y="399.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.030s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c36">
+      <rect x="25" y="410.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.058s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c37">
+      <rect x="25" y="420.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.086s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c38">
+      <rect x="25" y="431.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.114s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c39">
+      <rect x="25" y="441.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.142s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c40">
+      <rect x="25" y="451.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.170s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c41">
+      <rect x="25" y="462.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.198s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c42">
+      <rect x="25" y="472.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.226s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c43">
+      <rect x="25" y="483.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.254s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c44">
+      <rect x="25" y="493.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.282s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c45">
+      <rect x="25" y="503.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.310s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c46">
+      <rect x="25" y="514.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.338s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c47">
+      <rect x="25" y="524.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.366s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c48">
+      <rect x="25" y="535.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.394s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c49">
+      <rect x="25" y="545.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.422s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c50">
+      <rect x="25" y="555.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.450s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c51">
+      <rect x="25" y="566.2" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.478s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c52">
+      <rect x="25" y="576.6" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.506s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c53">
+      <rect x="25" y="587.0" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.534s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c54">
+      <rect x="25" y="597.4" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.562s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="dark_c55">
+      <rect x="25" y="607.8" width="0" height="10.2">
+        <animate attributeName="width" from="0" to="325" begin="1.590s" dur="0.08s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <!-- ASCII Portrait Typewriter Formation -->
+  <g clip-path="url(#dark_c0)">
     <text class="mono" x="25" y="44.0" fill="#c9d1d9" xml:space="preserve" font-size="8.6">                                                     .___.</text>
+  </g>
+  <g clip-path="url(#dark_c1)">
     <text class="mono" x="25" y="54.4" fill="#c9d1d9" xml:space="preserve" font-size="8.6">        __                                        .|jjjjj::</text>
+  </g>
+  <g clip-path="url(#dark_c2)">
     <text class="mono" x="25" y="64.8" fill="#c9d1d9" xml:space="preserve" font-size="8.6">       ixxxc.                                   .jjjjjjjj::`</text>
+  </g>
+  <g clip-path="url(#dark_c3)">
     <text class="mono" x="25" y="75.2" fill="#c9d1d9" xml:space="preserve" font-size="8.6">       jxxxjj/                                 _jjjjjxxxj::`</text>
+  </g>
+  <g clip-path="url(#dark_c4)">
     <text class="mono" x="25" y="85.6" fill="#c9d1d9" xml:space="preserve" font-size="8.6">       xxxxxxxc.                             _jjjjxxxxxjj:::</text>
+  </g>
+  <g clip-path="url(#dark_c5)">
     <text class="mono" x="25" y="96.0" fill="#c9d1d9" xml:space="preserve" font-size="8.6">       uxxxxxxxx_                           \jjjxxxxxxxxjj:</text>
+  </g>
+  <g clip-path="url(#dark_c6)">
     <text class="mono" x="25" y="106.4" fill="#c9d1d9" xml:space="preserve" font-size="8.6">       |xxxxxxxjjc.                       .j=jjxxxxxjjjjj::</text>
+  </g>
+  <g clip-path="url(#dark_c7)">
     <text class="mono" x="25" y="116.8" fill="#c9d1d9" xml:space="preserve" font-size="8.6">       |xooxxxxj::j:::__...__:j::::__j:::j:::jjjjxxxxxxxxj:</text>
+  </g>
+  <g clip-path="url(#dark_c8)">
     <text class="mono" x="25" y="127.2" fill="#c9d1d9" xml:space="preserve" font-size="8.6">       |xooxxxjjjjjjjjjxug;[xcjjjjx}!uuujjj:j:jjjjjxxxxxj:</text>
+  </g>
+  <g clip-path="url(#dark_c9)">
     <text class="mono" x="25" y="137.6" fill="#c9d1d9" xml:space="preserve" font-size="8.6">        |xoxxjjugoox::xooxcjjxj:|jj:jooox::1ogujjxxxxxxx:</text>
+  </g>
+  <g clip-path="url(#dark_c10)">
     <text class="mono" x="25" y="148.0" fill="#c9d1d9" xml:space="preserve" font-size="8.6">        jxxjjxoo@@ox_|ooooxxoxxjxxxxxxxox:_uooooujjjxxjj</text>
+  </g>
+  <g clip-path="url(#dark_c11)">
     <text class="mono" x="25" y="158.4" fill="#c9d1d9" xml:space="preserve" font-size="8.6">        juxI!-&#x27;-^-Vooooooxxooxxxxxxxxxxooooow---~+1xjjj:</text>
+  </g>
+  <g clip-path="url(#dark_c12)">
     <text class="mono" x="25" y="168.8" fill="#c9d1d9" xml:space="preserve" font-size="8.6">       \jxj: :: .._ //o@ooxooxxxxxxxxqo@o\\        jxxj</text>
+  </g>
+  <g clip-path="url(#dark_c13)">
     <text class="mono" x="25" y="179.2" fill="#c9d1d9" xml:space="preserve" font-size="8.6">      \uggp:i|    :  :[@@oxoxxxjxxoox@@pc_:::!`  |;|ggu/</text>
+  </g>
+  <g clip-path="url(#dark_c14)">
     <text class="mono" x="25" y="189.6" fill="#c9d1d9" xml:space="preserve" font-size="8.6">     jja$@@/js/:  ._z` qoooooxxxxxoox@@|&#x27;1;     .j:q@@ox:</text>
+  </g>
+  <g clip-path="url(#dark_c15)">
     <text class="mono" x="25" y="200.0" fill="#c9d1d9" xml:space="preserve" font-size="8.6">    :jjxxxxUUoggggggu;:jxxxoooooooxxxxv:__ug----ggoomxxjj:</text>
+  </g>
+  <g clip-path="url(#dark_c16)">
     <text class="mono" x="25" y="210.4" fill="#c9d1d9" xml:space="preserve" font-size="8.6">   |jxxxxxxxxxxaa@Uwjjxxxxooooooooooxjj:jjao@o@wxxxxxjjjj:</text>
+  </g>
+  <g clip-path="url(#dark_c17)">
     <text class="mono" x="25" y="220.8" fill="#c9d1d9" xml:space="preserve" font-size="8.6">   joxxxxjjjxxxxxxxxuxxxxxnxxxooxxxoxjjxujjxxxxxxjjjjjjxxj.</text>
+  </g>
+  <g clip-path="url(#dark_c18)">
     <text class="mono" x="25" y="231.2" fill="#c9d1d9" xml:space="preserve" font-size="8.6">  jjnvj::::jxxxxxxooooo]:jjjxxxxxxjj::1oooooxxxxjjjjjv=jxxx;</text>
+  </g>
+  <g clip-path="url(#dark_c19)">
     <text class="mono" x="25" y="241.6" fill="#c9d1d9" xml:space="preserve" font-size="8.6">  xxuuuxxjjjxxxjv1xao@@g/_. !jxxj&#x27; ._-g@ooxxxxjxxx:__j__jj::</text>
+  </g>
+  <g clip-path="url(#dark_c20)">
     <text class="mono" x="25" y="252.0" fill="#c9d1d9" xml:space="preserve" font-size="8.6">  |xxo$ooxxjjugoooooo@@@@@@/:j&#x27;j::\@@@@@@oxouuujjjxxoooxxjj`</text>
+  </g>
+  <g clip-path="url(#dark_c21)">
     <text class="mono" x="25" y="262.4" fill="#c9d1d9" xml:space="preserve" font-size="8.6">  |xooogxoooxooooooo@@@@@@@@/: :\\@@@@@@oooogguxxxxxxxxjxxj</text>
+  </g>
+  <g clip-path="url(#dark_c22)">
     <text class="mono" x="25" y="272.8" fill="#c9d1d9" xml:space="preserve" font-size="8.6">  |oo@o@ooooooooooooo@oo@ooooxjjoooooooooooguugooxxxxoooo|</text>
+  </g>
+  <g clip-path="url(#dark_c23)">
     <text class="mono" x="25" y="283.2" fill="#c9d1d9" xml:space="preserve" font-size="8.6"> |@pxxoo@@@@@ooxxxxxxxoowwwxxjjjjxoa$oooxxxxxxoo@oooooooo|</text>
+  </g>
+  <g clip-path="url(#dark_c24)">
     <text class="mono" x="25" y="293.6" fill="#c9d1d9" xml:space="preserve" font-size="8.6"> |@@oxxxxxxaooxxxxxjxxxxxxoooooooooxxxxxjjugoooooooooooxjq|</text>
+  </g>
+  <g clip-path="url(#dark_c25)">
     <text class="mono" x="25" y="304.0" fill="#c9d1d9" xml:space="preserve" font-size="8.6">|@@@oxxxxooooxxxxjjjxjxxxxxxooxooooxxxxxxxoooooooxxxxxxxog|</text>
+  </g>
+  <g clip-path="url(#dark_c26)">
     <text class="mono" x="25" y="314.4" fill="#c9d1d9" xml:space="preserve" font-size="8.6">|@@@@ggxoooooooooxxxxxxxxxxxjxjjxjjxxooooooooooooooooxxg@@|</text>
+  </g>
+  <g clip-path="url(#dark_c27)">
     <text class="mono" x="25" y="324.8" fill="#c9d1d9" xml:space="preserve" font-size="8.6">|@@@@@@gpxxooooooooooooooooooogjogxoo@oooooooooooooxxq@@@@|</text>
+  </g>
+  <g clip-path="url(#dark_c28)">
     <text class="mono" x="25" y="335.2" fill="#c9d1d9" xml:space="preserve" font-size="8.6"> |@@@@@@@@@oooooooo@o@@@o@ow@@@oxoo@o@ooooooooooooxxu@@@@@|</text>
+  </g>
+  <g clip-path="url(#dark_c29)">
     <text class="mono" x="25" y="345.6" fill="#c9d1d9" xml:space="preserve" font-size="8.6"> |@@@@@@@@@@@goooooooo@@opxuo@@@xoo@oooooooooooxxxx\@@@@@o|</text>
+  </g>
+  <g clip-path="url(#dark_c30)">
     <text class="mono" x="25" y="356.0" fill="#c9d1d9" xml:space="preserve" font-size="8.6">  |@@@@@@@@@@@@gyxxooooowjxooooooxoooooooooxxxxjug@@@@@@@|</text>
+  </g>
+  <g clip-path="url(#dark_c31)">
     <text class="mono" x="25" y="366.4" fill="#c9d1d9" xml:space="preserve" font-size="8.6">  ||@@@@@@@@@@@@@@gjjxxxxxxoooooxxxooxxxjjjjjug@@@@@@@@@||</text>
+  </g>
+  <g clip-path="url(#dark_c32)">
     <text class="mono" x="25" y="376.8" fill="#c9d1d9" xml:space="preserve" font-size="8.6">   |@@@@@@@@@@@@@@@@ggxxxxxxxooxxxxxxxjjj|\g@@@@@@@@@@@o|</text>
+  </g>
+  <g clip-path="url(#dark_c33)">
     <text class="mono" x="25" y="387.2" fill="#c9d1d9" xml:space="preserve" font-size="8.6">    |@@@@@@@@@@@@@@@@@@gguxxjjxxjjjxxxugg@@@@@@@@@@@@@@|</text>
+  </g>
+  <g clip-path="url(#dark_c34)">
     <text class="mono" x="25" y="397.6" fill="#c9d1d9" xml:space="preserve" font-size="8.6">     |@@@@@@@@@@@@@@@@@@@@@@gggujjugg@@@@@@@@@@@@@@@@o|</text>
+  </g>
+  <g clip-path="url(#dark_c35)">
     <text class="mono" x="25" y="408.0" fill="#c9d1d9" xml:space="preserve" font-size="8.6">     &#x27;q@@@@@@@@@@@@@@@@@@@@@@Q@@@@@@@@@@@@@@@@@@@@@@@o|</text>
+  </g>
+  <g clip-path="url(#dark_c36)">
     <text class="mono" x="25" y="418.4" fill="#c9d1d9" xml:space="preserve" font-size="8.6">      //@@@@@@@@@@@@@@@@@@@\\ :&#x27;-//@@@@@@@@@@@@@@@@o@|</text>
+  </g>
+  <g clip-path="url(#dark_c37)">
     <text class="mono" x="25" y="428.8" fill="#c9d1d9" xml:space="preserve" font-size="8.6">        /@@@@@@@@@@@@@@@@@\\      //@@@@@@@@@@@@@@@@p</text>
+  </g>
+  <g clip-path="url(#dark_c38)">
     <text class="mono" x="25" y="439.2" fill="#c9d1d9" xml:space="preserve" font-size="8.6">         /@@@@@@@@@@@@@@@\\        //@@@@@@@@@@@@@@\\</text>
+  </g>
+  <g clip-path="url(#dark_c39)">
     <text class="mono" x="25" y="449.6" fill="#c9d1d9" xml:space="preserve" font-size="8.6">         ||@@@@@@@@@@@@@\&#x27;           /@@@@@@@@@@@@\</text>
+  </g>
+  <g clip-path="url(#dark_c40)">
     <text class="mono" x="25" y="460.0" fill="#c9d1d9" xml:space="preserve" font-size="8.6">          |@@@@@@@@@@@@\:     :       /Q@@@@@@@@@p\</text>
+  </g>
+  <g clip-path="url(#dark_c41)">
     <text class="mono" x="25" y="470.4" fill="#c9d1d9" xml:space="preserve" font-size="8.6">           |@@@@@@@@@@|      :::       |@@@@@@@@||</text>
+  </g>
+  <g clip-path="url(#dark_c42)">
     <text class="mono" x="25" y="480.8" fill="#c9d1d9" xml:space="preserve" font-size="8.6">            |@@@@@@@@@x/     :::     \\ug@@@@@@@|</text>
+  </g>
+  <g clip-path="url(#dark_c43)">
     <text class="mono" x="25" y="491.2" fill="#c9d1d9" xml:space="preserve" font-size="8.6">            |@@@@@@@@ooo/    : :    \g@@@o@@@@@||</text>
+  </g>
+  <g clip-path="url(#dark_c44)">
     <text class="mono" x="25" y="501.6" fill="#c9d1d9" xml:space="preserve" font-size="8.6">             |@@@@@@o@@@@/    :    \@@@@@@o@@@@|</text>
+  </g>
+  <g clip-path="url(#dark_c45)">
     <text class="mono" x="25" y="512.0" fill="#c9d1d9" xml:space="preserve" font-size="8.6">             |@@@@@o@@@@@||       |@@@@@@@@o@@|</text>
+  </g>
+  <g clip-path="url(#dark_c46)">
     <text class="mono" x="25" y="522.4" fill="#c9d1d9" xml:space="preserve" font-size="8.6">              |@@@o@@@@@@|`       |@@@@@@@@@@@|</text>
+  </g>
+  <g clip-path="url(#dark_c47)">
     <text class="mono" x="25" y="532.8" fill="#c9d1d9" xml:space="preserve" font-size="8.6">              ||@o@@@@@@@|        ||@@@@@@@@@|</text>
+  </g>
+  <g clip-path="url(#dark_c48)">
     <text class="mono" x="25" y="543.2" fill="#c9d1d9" xml:space="preserve" font-size="8.6">               |@@@@@@@@|          |@@@@@@@@@|</text>
+  </g>
+  <g clip-path="url(#dark_c49)">
     <text class="mono" x="25" y="553.6" fill="#c9d1d9" xml:space="preserve" font-size="8.6">               ||@@@@@@||          :|@@@@@@@|</text>
+  </g>
+  <g clip-path="url(#dark_c50)">
     <text class="mono" x="25" y="564.0" fill="#c9d1d9" xml:space="preserve" font-size="8.6">                |@@@@@||            ||@@@@@@|</text>
+  </g>
+  <g clip-path="url(#dark_c51)">
     <text class="mono" x="25" y="574.4" fill="#c9d1d9" xml:space="preserve" font-size="8.6">                 |@@@@|              |@@@@@|</text>
+  </g>
+  <g clip-path="url(#dark_c52)">
     <text class="mono" x="25" y="584.8" fill="#c9d1d9" xml:space="preserve" font-size="8.6">                 |@@@||              ||@@@@|</text>
+  </g>
+  <g clip-path="url(#dark_c53)">
     <text class="mono" x="25" y="595.2" fill="#c9d1d9" xml:space="preserve" font-size="8.6">                  |@@|                |@@@|</text>
+  </g>
+  <g clip-path="url(#dark_c54)">
     <text class="mono" x="25" y="605.6" fill="#c9d1d9" xml:space="preserve" font-size="8.6">                   q\                  |@|\</text>
+  </g>
+  <g clip-path="url(#dark_c55)">
     <text class="mono" x="25" y="616.0" fill="#c9d1d9" xml:space="preserve" font-size="8.6">                                       !V`</text>
   </g>
   <g>
